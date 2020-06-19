@@ -43,7 +43,6 @@
     }
 
     function createControls() {
-        // var stations = $('#ShowStations');
         var html = `<div id="placeholder-search-car" style="display: none;">
           <div id="ctrl-search-car" style="padding: 3px; background-color: white;">
             <div style="font-weight: bold;">Search for a Flex Car:</div>
