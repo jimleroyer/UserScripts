@@ -7,7 +7,7 @@
 // @copyright    2020+, Jimmy Royer (https://twitter.com/jimleroyer)
 // @license      CC-BY-NC-SA-4.0; https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 // @license      GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
-// @updateURL    https://raw.githubusercontent.com/jimleroyer/UserScripts/master/FindFlexCar.user.js
+// @updateURL    https://github.com/jimleroyer/UserScripts/raw/master/communauto/FindFlexCar.user.js
 // @match        https://www.reservauto.net/Scripts/Client/Mobile/Default.asp*
 // @grant        unsafeWindow
 // ==/UserScript==
